@@ -1,6 +1,6 @@
 # Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Anbu Damodaran
 
 Trivia app is an app where the uses is presented with three multiple choice questions. The goal is for the user to get all the questions right!
 
